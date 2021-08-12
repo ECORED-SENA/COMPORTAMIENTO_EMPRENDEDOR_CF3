@@ -1,0 +1,152 @@
+.hr_blank
+  width: 100%
+  height: 3px
+  margin: 2rem 0
+
+
+// colores
+.clr-naranja
+  background-color: #FCDACE
+  &::before
+    background-color: #F2884B
+
+.txt-orange
+  color: #F2884B !important
+
+.clr-mint
+  background-color: #DDF3F6
+  &::before
+    background-color: #419CA6
+
+.clr-mint_quote
+  &::before    
+    background-color: #DDF3F6
+
+.orange  
+  padding: 0.25rem
+  background-color: #FCDACE
+
+//Text decoration
+
+.deco--mint
+  &::before
+    background-color: #DDF3F6
+
+.top_deco
+  position: relative
+  z-index: 2
+  &::before
+    content: ""
+    position: absolute
+    top: -10px
+    left: -10px
+    width: 45%
+    height: 40%    
+    z-index: -1
+
+.top_bottom
+  position: relative
+  z-index: 2
+  &::before
+    content: ""
+    position: absolute
+    bottom: -10px
+    right: -10px
+    width: 45%
+    height: 40%    
+    z-index: -1
+
+// Custom Tarjeta
+.c-tarjeta
+  height: 100%
+  padding: 1rem
+  background-color: #FAD9C5
+  border-bottom-left-radius: 24px
+  border-bottom-right-radius: 24px
+  border-top-right-radius: 24px
+  p 
+    padding: 1rem
+
+.c-icon
+  width: 40px
+  height: 40px
+  background-color: #F26D3D
+  border-bottom-left-radius: 18px
+  border-bottom-right-radius: 18px
+  border-top-right-radius: 18px
+
+// Custom Slider A
+
+.slyder-a__btn--sigt
+  right: -55px
+.slyder-a__btn--atrs
+  left: -55px
+.slyder-a__bullets
+  bottom: 0
+
+.c-slyder
+  position: relative
+  padding: 2rem
+  background-color: #CEEEF1
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: 35%
+    height: 100%    
+    border-bottom-left-radius: 100px
+
+.c-slyder--emerald
+  &::before
+    background-color: #419CA6
+  
+.c-slyder--aqua
+  &::before
+    background-color: #77CFD9
+
+// Horizontal card - avatar
+
+.clr--olive  
+  background-color: #035159 
+
+
+
+.h-card--avatar
+  position: relative
+  display: flex
+  justify-content: start
+  align-items: start  
+  &__icon
+    position: relative
+    flex: 0 0 auto
+    width: 90px    
+    z-index: 2
+    img
+      position: relative
+      width: 90px
+  &__body
+    position: relative
+    margin-top: 15px
+    padding: 1.2rem
+    background-color: #035159     
+    border-top-right-radius: 999px
+    border-bottom-right-radius: 999px
+    bordr
+    &::before
+      content: ""
+      position: absolute
+      bottom: 0
+      left: -45px    
+      width: 45px
+      height: 100%
+      background-color: #035159
+      border-bottom-left-radius: 999px
+
+//custom bg
+@media (max-width: 990px) 
+  .banner-principal
+    .container.tarjeta
+      background-image: url('../assets/curso/fondo-banner-principal_02.svg') !important
+
+
