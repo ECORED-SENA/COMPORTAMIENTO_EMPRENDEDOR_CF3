@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Design thinking',
+            titulo: 'Design Thinking',
             hash: 't_1_2',
           },
         ],
@@ -144,37 +144,37 @@ export default {
     {
       termino: 'Capacidad creativa',
       significado:
-        'Conjunto de recursos y aptitudes que tiene un individuo para generar ideas.',
+        'conjunto de recursos y aptitudes que tiene un individuo para generar ideas.',
     },
     {
       termino: 'Creatividad',
       significado:
-        'Es la generación de ideas útiles y novedosas que tengan valor.',
+        'es la generación de ideas útiles y novedosas que tengan valor.',
     },
     {
-      termino: 'Design thinking',
+      termino: 'Design Thinking',
       significado:
-        'Proceso creativo que consiste en definir el problema que se pretende abordar para entenderlo y posteriormente, implementar las soluciones, siempre enfocando el proceso hacia las necesidades del usuario y generando valor.',
+        'proceso creativo que consiste en definir el problema que se pretende abordar para entenderlo y posteriormente, implementar las soluciones, siempre enfocando el proceso hacia las necesidades del usuario y generando valor.',
     },
     {
       termino: 'Estrategia',
       significado:
-        'Estrategia es un plan para dirigir un asunto. Una estrategia se compone de una serie de acciones planificadas que ayudan a tomar decisiones y a conseguir los mejores resultados posibles.  La estrategia está orientada a alcanzar un objetivo siguiente una pauta de actuación.',
+        'estrategia es un plan para dirigir un asunto. Una estrategia se compone de una serie de acciones planificadas que ayudan a tomar decisiones y a conseguir los mejores resultados posibles.  La estrategia está orientada a alcanzar un objetivo siguiente una pauta de actuación.',
     },
     {
       termino: 'Innovación',
       significado:
-        'Poner las ideas en acción. Introducción de algo nuevo o una novedad que añade valor a un mercado, organización o sociedad.',
+        'poner las ideas en acción. Introducción de algo nuevo o una novedad que añade valor a un mercado, organización o sociedad.',
     },
     {
       termino: 'Plan',
       significado:
-        'Un plan es una intención que se formula a corto o mediano plazo, se elabora antes de realizar una acción con el objetivo de dirigirla y viabilizarla.',
+        'un plan es una intención que se formula a corto o mediano plazo, se elabora antes de realizar una acción con el objetivo de dirigirla y viabilizarla.',
     },
     {
       termino: 'Producto/servicio',
       significado:
-        'Productos materiales o servicios intangibles, que satisfacen las necesidades de los usuarios y que, por lo tanto, son adquiridos por ellos.',
+        'productos materiales o servicios intangibles, que satisfacen las necesidades de los usuarios y que, por lo tanto, son adquiridos por ellos.',
     },
   ],
   complementario: [

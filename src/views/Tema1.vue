@@ -99,7 +99,7 @@
               img(src='@/assets/curso/tema1/slider_1_1_02.png', alt='Texto que describa la imagen')             
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Innovación en la gestión (organizacional y marketing)
+            h4 Innovación en la gestión (organizacional y #[i marketing])
             p Redefinir nuevos métodos organizacionales que incluyen mejoras en las actividades de gestión de la empresa. (gestión del conocimiento, recursos humanos, gestión de la cadena de valor, administración, sistema de calidad, etc.).
             p Un ejemplo a citar es la entidad bancaria Bancolombia, la cual ha creado diferentes soluciones tecnológicas no solo para digitalizar sus servicios sino también para mejorar la gestión financiera y contable propia y de sus clientes.    
           .col-md-6
