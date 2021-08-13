@@ -202,12 +202,12 @@ export default {
       },
       {
         nombre: 'Magaly Caycedo Molano',
-        cargo: 'Coordinación Nacional de Emprendimiento',
+        cargo: 'Coordinación nacional de emprendimiento',
         centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Ruth Nelly Gutierrez Achury',
-        cargo: 'Coordinación Nacional de Emprendimiento',
+        cargo: 'Coordinación nacional de emprendimiento',
         centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
@@ -228,12 +228,12 @@ export default {
       },
       {
         nombre: 'Claudia Milena Hernández Naranjo',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
@@ -264,12 +264,12 @@ export default {
       },
       {
         nombre: 'Daniel Ricardo Mutis Gómez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '---',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -148,13 +148,13 @@
     separador
 
     #t_1_2.titulo-segundo
-      h2 1.2 Design thinking
+      h2 1.2 Design Thinking
 
     
     p ¿Cómo se pueden aplicar la creatividad, y la innovación según desafíos y oportunidades del entorno? 
-    p.mb-5 Existen diversas formas de hacerlo, una de ellas es el pensamiento de diseño o design thinking.
+    p.mb-5 Existen diversas formas de hacerlo, una de ellas es el pensamiento de diseño o Design Thinking.
 
-    h3.mb-5 ¿Qué es design thinking?
+    h3.mb-5 ¿Qué es Design Thinking?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -199,7 +199,7 @@
       div(titulo="Idear")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
-            p Como lo indica el nombre, esta fase consiste en la generación de ideas innovadoras para la solución al problema planteado. Para este fin se reúne un equipo multidisciplinar, normalmente a través de talleres de cocreación. Contar con personas con diferentes perfiles permite ampliar el espectro y enriquecer las soluciones.  La ideación suele iniciar con un brainstorming o lluvia de ideas. 
+            p Como lo indica el nombre, esta fase consiste en la generación de ideas innovadoras para la solución al problema planteado. Para este fin se reúne un equipo multidisciplinar, normalmente a través de talleres de cocreación. Contar con personas con diferentes perfiles permite ampliar el espectro y enriquecer las soluciones.  La ideación suele iniciar con un #[i brainstorming] o lluvia de ideas. 
             p De la cantidad y calidad de ideas creadas dependerá la generación de soluciones factibles y creativas.
           .col-md-9.col-lg-5
             figure

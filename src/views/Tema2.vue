@@ -42,7 +42,7 @@
           .h-card--avatar__body
             p.mb-0.text-white ¿Dónde lo voy a hacer?
 
-    p.mb-5 Empiece por conocer cómo se define una estrategia, este concepto tiene su origen en el campo militar (es la fusión de dos palabras griegas: stratos: ejército y agein: conducir, guiar). En la actualidad, este concepto ha migrado a ambientes sociales, económicos, políticos, educativos, empresariales y personales y se define como un conjunto de acciones, estudiadas y analizadas, que conducen hacia el logro de una meta con el mínimo error posible.
+    p.mb-5 Empiece por conocer cómo se define una estrategia, este concepto tiene su origen en el campo militar (es la fusión de dos palabras griegas: #[i stratos]: ejército y #[i agein]: conducir, guiar). En la actualidad, este concepto ha migrado a ambientes sociales, económicos, políticos, educativos, empresariales y personales y se define como un conjunto de acciones, estudiadas y analizadas, que conducen hacia el logro de una meta con el mínimo error posible.
 
     figure.mb-5
       .video
@@ -142,7 +142,7 @@
               img(src='@/assets/curso/tema2/slider_2_1_01.svg', alt='Texto que describa la imagen')
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
-            h4 Cree su visión de futuro
+            h4 Defina sus valores
             p Son aquellas características que direccionan la vida, base para la tomar decisiones, y principios innegociables.
             p Los valores enmarcan el camino hacia las metas establecidas, ya que dan los límites de lo que se está dispuesto a hacer. Tenerlos claros permite generar las alertas necesarias cuando las circunstancias de la vida intentan sacarnos del camino y no cumplir lo que se ha definido ser. Ejemplo de valores son: la honestidad, el respeto, la solidaridad, la lealtad, el amor, etc. 
             p En tu bitácora personal, y teniendo como pregunta orientadora ¿cuáles son los principios, virtudes o cualidades que lo caracterizan?, defina sus valores.
