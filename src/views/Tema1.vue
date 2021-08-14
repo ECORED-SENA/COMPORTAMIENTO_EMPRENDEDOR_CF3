@@ -20,8 +20,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/gp-1O_UBuBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
 
     .row.mb-5
       .col-lg-6
@@ -39,8 +38,8 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/TweiZdMxh9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+               
     p.mb-5 Ahora bien, existen factores que pueden afectar que fluya la creatividad, dentro de los cuales se encuentran:          
 
     .row.justify-content-center.mb-4
