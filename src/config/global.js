@@ -159,7 +159,7 @@ export default {
     {
       termino: 'Estrategia',
       significado:
-        'estrategia es un plan para dirigir un asunto. Una estrategia se compone de una serie de acciones planificadas que ayudan a tomar decisiones y a conseguir los mejores resultados posibles.  La estrategia está orientada a alcanzar un objetivo siguiente una pauta de actuación.',
+        'estrategia es un plan para dirigir un asunto. Una estrategia se compone de una serie de acciones planificadas que ayudan a tomar decisiones y a conseguir los mejores resultados posibles.  La estrategia está orientada a alcanzar un objetivo siguiendo una pauta de actuación.',
     },
     {
       termino: 'Innovación',

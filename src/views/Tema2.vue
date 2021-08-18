@@ -143,7 +143,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
             h4 Defina sus valores
-            p Son aquellas características que direccionan la vida, base para la tomar decisiones, y principios innegociables.
+            p Son aquellas características que direccionan la vida, base para la toma de decisiones, y principios innegociables.
             p Los valores enmarcan el camino hacia las metas establecidas, ya que dan los límites de lo que se está dispuesto a hacer. Tenerlos claros permite generar las alertas necesarias cuando las circunstancias de la vida intentan sacarnos del camino y no cumplir lo que se ha definido ser. Ejemplo de valores son: la honestidad, el respeto, la solidaridad, la lealtad, el amor, etc. 
             p En tu bitácora personal, y teniendo como pregunta orientadora ¿cuáles son los principios, virtudes o cualidades que lo caracterizan?, defina sus valores.
             .cajon.clr-mint.p-4
@@ -155,8 +155,8 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
             h4 Establezca objetivos para llegar a su visión
-            p Los objetivos proporcionan la visión clara de lo que se quiere lograr, da respuesta a la pregunta ¿que voy a hacer?, donde el objetivo es la expresión cualitativa de ciertos propósitos que se desean alcanzar con la realización de un plan, programa o proyecto. La meta es la expresión cuantitativa de los deseos o propósitos de la persona. Aquí es donde se define qué es lo que hay que hacer para llegar a la visión, que está soportada en la misión y los valores. Por ejemplo, para la meta de crear una empresa de turismo; los objetivos que podrían plantearse son: realizar una maestría en administración turística; viajar para conocer tendencias de la actividad turística; trabajar en una reconocida agencia de viajes, etc., entre otras.
-            p En su bitácora personal, y teniendo como pregunta orientadora ¿que voy a hacer?, establezca sus objetivos.
+            p Los objetivos proporcionan la visión clara de lo que se quiere lograr, da respuesta a la pregunta ¿qué voy a hacer?, donde el objetivo es la expresión cualitativa de ciertos propósitos que se desean alcanzar con la realización de un plan, programa o proyecto. La meta es la expresión cuantitativa de los deseos o propósitos de la persona. Aquí es donde se define qué es lo que hay que hacer para llegar a la visión, que está soportada en la misión y los valores. Por ejemplo, para la meta de crear una empresa de turismo; los objetivos que podrían plantearse son: realizar una maestría en administración turística; viajar para conocer tendencias de la actividad turística; trabajar en una reconocida agencia de viajes, etc., entre otras.
+            p En su bitácora personal, y teniendo como pregunta orientadora ¿qué voy a hacer?, establezca sus objetivos.
             .cajon.clr-mint.p-4
               p.mb-0 Esta actividad no es evaluativa, pero le permitirá trazar su estrategia emprendedora. 
    
@@ -166,7 +166,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
             h4 Proceso de implementación
-            p.mb-5 Es tal vez la etapa que requiere de un mayor compromiso y da respuesta a la pregunta ¿cuándo se va a hacer?, tan pronto se defina la meta y los objetivos para dar cumplimiento al plan, se hace necesario definir cada una de las acciones necesaria para la ejecución de las actividades (¿cómo lo voy a hacer?), se recomienda hacer un cronograma de actividades incluyendo tiempo y responsables. Ejemplo: para fortalecer mi nivel de inglés debo comenzar un curso en enero de 2021, durante el año que dure el curso ahorraré mensualmente determinada cantidad de dinero e iniciaré el trámite para viajar a USA y perfeccionar el idioma. Revise el cronograma propuesto para ejemplo.
+            p.mb-5 Es tal vez la etapa que requiere de un mayor compromiso y da respuesta a la pregunta ¿cuándo se va a hacer?, tan pronto se defina la meta y los objetivos para dar cumplimiento al plan, se hace necesario definir cada una de las acciones necesarias para la ejecución de las actividades (¿cómo lo voy a hacer?), se recomienda hacer un cronograma de actividades incluyendo tiempo y responsables. Ejemplo: para fortalecer mi nivel de inglés debo comenzar un curso en enero de 2021, durante el año que dure el curso ahorraré mensualmente determinada cantidad de dinero e iniciaré el trámite para viajar a USA y perfeccionar el idioma. Revise el cronograma propuesto para ejemplo.
             .row
               .col-auto
                 a.anexo.mb-4(:href="obtenerLink('/downloads/Cronograma.pdf')" target="_blank")
@@ -191,7 +191,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
             h4 Dirección estratégica
-            p La dirección estratégica busca alinear todos los esfuerzos en torno al objetivo propuesto, una de las tareas primordiales es saber hacia dónde se quiere llegar y esto dependerá de la misión y visión, pero también hay que tener en cuenta los factores externos que pueden impulsar o obstaculizar los procesos; un elemento clave en la dirección estratégica es direccionar y movilizar todos los esfuerzos posibles para hacer que las cosas ocurran, generando acción. Cuando somos capaces de movilizarnos, entonces será posible afrontar cualquier objetivo y encauzar todos los recursos disponibles hacia el.
+            p La dirección estratégica busca alinear todos los esfuerzos en torno al objetivo propuesto, una de las tareas primordiales es saber hacia dónde se quiere llegar y esto dependerá de la misión y visión, pero también hay que tener en cuenta los factores externos que pueden impulsar o obstaculizar los procesos; un elemento clave en la dirección estratégica es direccionar y movilizar todos los esfuerzos posibles para hacer que las cosas ocurran, generando acción. Cuando somos capaces de movilizarnos, entonces será posible afrontar cualquier objetivo y encauzar todos los recursos disponibles hacia él.
             p Las siguientes preguntas orientadoras, sirven para empezar a enfocar los ejes estratégicos de acción, de acuerdo con la meta propuesta:  
             ul.fa-ul
               li #[span.fa-li #[i.txt-orange.fas.fa-check]] ¿En qué aspectos se encuentra satisfecho?
@@ -206,7 +206,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0.order-2.order-lg-1
             h4 Seguimiento y evaluación de resultados
-            p Se debe hacer revisión periódica para verificar que lo planeado, está siendo ejecutado en los tiempos establecidos y si hay variaciones se debe hacer un plan de mejora que permita corregir errores y direccionar nuevamente la planeación para el logro del objetivo.   Por último, se debe hacer una evaluación de los resultados de los planes; es clave analizar cómo fue la ejecución de las acciones esto ayuda a consolidar los proceso y aprender de los errores, los que puede llevar a reajustar el plan inicial; por supuesto, todo en función del propósito general.           
+            p Se debe hacer revisión periódica para verificar que lo planeado, está siendo ejecutado en los tiempos establecidos y si hay variaciones se debe hacer un plan de mejora que permita corregir errores y direccionar nuevamente la planeación para el logro del objetivo.   Por último, se debe hacer una evaluación de los resultados de los planes; es clave analizar cómo fue la ejecución de las acciones esto ayuda a consolidar los procesos y aprender de los errores, los que puede llevar a reajustar el plan inicial; por supuesto, todo en función del propósito general.           
    
           .col-md-6.order-1.order-lg-2
             figure
